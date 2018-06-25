@@ -1,0 +1,9 @@
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\bin\Debug\Weather History2.exe.config
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\bin\Debug\Weather History2.exe
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\bin\Debug\Weather History2.pdb
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\obj\Debug\Weather History2.csprojResolveAssemblyReference.cache
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\obj\Debug\Weather_History2.Weatherdata2.resources
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\obj\Debug\Weather_History2.Properties.Resources.resources
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\obj\Debug\Weather History2.csproj.GenerateResource.Cache
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\obj\Debug\Weather History2.exe
+C:\Users\Phina\Documents\Visual Studio 2013\Projects\Weather History\Weather History2\obj\Debug\Weather History2.pdb
