@@ -135,7 +135,19 @@ namespace Weather_History2
 
             if (ff.ShowDialog() == DialogResult.OK)
             {
-                tempchart.SaveImage(ff.FileName, ChartImageFormat.Jpeg);
+                tempchart.SaveImage(ff.FileName, ChartImageFormat.Jpeg);    //saves the tempchart
+            }
+             if (ff.ShowDialog() == DialogResult.OK)
+            {
+                rainchart.SaveImage(ff.FileName, ChartImageFormat.Jpeg);    //saves the rainchart
+            }
+             if (ff.ShowDialog() == DialogResult.OK)
+            {
+                sunchart.SaveImage(ff.FileName, ChartImageFormat.Jpeg);     //saves the sunchart
+            }
+             if (ff.ShowDialog() == DialogResult.OK)
+            {
+                AFchart.SaveImage(ff.FileName, ChartImageFormat.Jpeg);      //saves the AFchart
             }
         }
         //this is the click handler for the exit button on the File menu
